@@ -1,4 +1,11 @@
 # Python-project
+Made By:
+<b><ul>
+<li>Vedant Parekh(18bce144)
+<li>Harshil Panchal(18bce142)
+<li>Chirag Patadiya(18bce152)
+</ul></b>
+<hr>
 <h2>WEB SCRAPPING</h2>
 <br> Our project scrape the details of website with the help  of GUI interface.
 <br>We have used the following libraries:
