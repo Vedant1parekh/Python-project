@@ -8,6 +8,8 @@ Made By:
 <hr>
 <h2>WEB SCRAPPING</h2>
 <br> Our project scrape the details of website with the help  of GUI interface.
+<br>This project is mainly <b><i>python-pycharm</b></i> based project.
+<br> In this <b>PyCharm</b> is used tocreate virtual enviroment.
 <br>We have used the following libraries:
 <br><b>Scarping:</b>
       <ul>
@@ -21,3 +23,4 @@ Made By:
   <li>shop-clues
   <li>flipkart</ol>
 <br>It will save scape data in JSON,CSV,XML formats.
+<br>Instruction for working of project in above insruction.txt file.
