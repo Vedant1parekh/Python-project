@@ -23,4 +23,4 @@ Made By:
   <li>shop-clues
   <li>flipkart</ol>
 <br>It will save scape data in JSON,CSV,XML formats.
-<br>Instruction for working of project in above insruction.txt file.
+<br>Instruction for working of project in above Presentation1.pptx
