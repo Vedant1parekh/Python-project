@@ -28,5 +28,5 @@ Made By:
 <a href="https://drive.google.com/drive/u/1/folders/1cLoQXkcF6O-3pgcMYtBolb0uXVROtyH2">https://drive.google.com/open?id=1cLoQXkcF6O-3pgcMYtBolb0uXVROtyH2</a>
 <h2> Brain Tumor Detection</h2>
 <br> In this project I have used python programming language and some preprocessing techniques to detect the brain tumor.
-<br>This project mainly containds diffrent types of smoothing filters and Sharpening filters.
+<br>This project mainly contains diffrent types of smoothing filters and Sharpening filters.
 <br> I have used  SKLEARN,SCIPY library in this project.
